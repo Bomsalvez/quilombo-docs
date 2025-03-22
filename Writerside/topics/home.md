@@ -74,7 +74,5 @@ O `QuilomboRegister` é um sistema web desenvolvido com as seguintes tecnologias
 
 ---
 
-<div align="center">
-  <h3>🌙 Quilombo Pena Branca 🌙</h3>
-  <p>Honrando nossas raízes, construindo nosso futuro</p>
-</div>
+  #### 🌙 Quilombo Pena Branca 🌙
+  ***Honrando nossas raízes, construindo nosso futuro***

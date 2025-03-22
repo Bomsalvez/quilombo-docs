@@ -83,19 +83,19 @@ O sistema conta com um menu lateral intuitivo para navegação rápida:
 
 ## 📋 Pré-requisitos
 
-### Backend
+**Backend**
 - Java 21
 - Docker e Docker Compose (opcional para ambiente containerizado)
 - Maven
 
-### Frontend
+**Frontend**
 - Node.js (versão recomendada: 18.x ou superior)
 - NPM (geralmente instalado com o Node.js)
 - Angular CLI 19.x
 
 ## 🛠️ Instalação e Configuração
 
-### Backend
+**Backend**
 
 1. **Clone o repositório**
    ```bash
@@ -115,7 +115,7 @@ O sistema conta com um menu lateral intuitivo para navegação rápida:
    ./mvnw spring-boot:run
    ```
 
-### Frontend
+**Frontend**
 
 1. **Clone o repositório**
    ```bash
@@ -194,9 +194,7 @@ Para relatar bugs ou sugerir melhorias, abra uma issue no repositório do projet
 4. Envie para o GitHub
 5. Abra um Pull Request
 
----
 
-<div align="center">
-  <h3>🌙 Quilombo Pena Branca 🌙</h3>
-  <p>Honrando nossas raízes, construindo nosso futuro</p>
-</div>
+
+  #### 🌙 Quilombo Pena Branca 🌙
+  ***Honrando nossas raízes, construindo nosso futuro***
