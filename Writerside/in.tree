@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Quilombo-Docs"
+                 start-page="readme.md">
+
+    <toc-element topic="readme.md"/>
+    <toc-element topic="home.md"/>
+    <toc-element topic="senzalla-technology.md"/>
+    <toc-element topic="Requisitos.md">
+        <toc-element topic="RF01.md"/>
+        <toc-element topic="RF02.md"/>
+        <toc-element topic="RD03.md"/>
+        <toc-element topic="RF04.md"/>
+        <toc-element topic="RF05.md"/>
+        <toc-element topic="RF06.md"/>
+        <toc-element topic="RF07.md"/>
+        <toc-element topic="RF08.md"/>
+        <toc-element topic="RF09.md"/>
+    </toc-element>
+</instance-profile>
