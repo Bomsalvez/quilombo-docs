@@ -76,29 +76,15 @@ Utilizamos um conjunto diversificado de tecnologias modernas:
 
 ## 📞 Contato
 
-- **📧 Email**: [contato@senzalla.dev](mailto:contato@senzalla.dev)
-- **🌐 Website**: [https://senzalla.dev](https://senzalla.dev)
-- **🐱 GitHub**: [https://github.com/senzalla](https://github.com/senzalla)
-- **📱 WhatsApp**: +55 (11) 99999-9999
-- **🔗 LinkedIn**: [https://www.linkedin.com/in/bomsalvez-freitas/](https://www.linkedin.com/in/bomsalvez-freitas/)
+-[📧 Email](mailto:bomsalvez@gmail.com)
+-[🐱 GitHub](https://github.com/bomsalvez) 
+-[📱 WhatsApp](https://wa.me/5565992300223)
+-[🔗 LinkedIn](https://www.linkedin.com/in/bomsalvez-freitas/)
+
 
 ## 🤝 Parcerias e Clientes
 
 - Associação Cultural Quilombo Pena Branca
-- Instituto de Preservação do Patrimônio Imaterial
-- Secretaria de Cultura Municipal
-- Fundação de Apoio às Comunidades Tradicionais
-- ONGs de Desenvolvimento Social
-
-## 📣 Depoimentos
-
-> "A Senzalla Technology transformou nossa gestão comunitária, respeitando nossas tradições enquanto nos ajudou a modernizar nossos processos. Uma parceria que realmente entende o valor da nossa cultura."
-> 
-> **— Líder do Quilombo Pena Branca**
-
-> "Trabalhar com uma empresa que valoriza tanto o conhecimento ancestral quanto a inovação tecnológica fez toda a diferença em nosso projeto de preservação cultural."
->
-> **— Diretor do Instituto de Patrimônio Cultural**
 
 ---
 

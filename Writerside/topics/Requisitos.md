@@ -2,19 +2,25 @@
 
 ## 🚀 Requisitos Funcionais
 
-| Cod. | Nome                 | Ator     | Objetivo                                            | Status |
-|------|----------------------|----------|-----------------------------------------------------|--------|
-| RF01 | 👤 Cadastrar Operador | Admin    | O admin criará um operador no sistema               | ✅     |
-| RF02 | ✏️ Editar Operador    | Admin    | O admin editará um operador                         | ✅     |
-| RF03 | 🗑️ Excluir Operador   | Admin    | O admin excluirá um operador                        | ✅     |
-| RF04 | 📋 Listar Operadores  | Admin    | O admin visualizará todos os operadores cadastrados | ✅     |
-| RF05 | 🔍 Detalhar Operador  | Admin    | O admin visualizará os detalhes de um operador      | ✅     |
-| RF06 | 👥 Cadastrar Membro   | Operador | O operador cadastrará um membro                     | ✅     |
-| RF07 | ✏️ Editar Membro      | Operador | O operador editará um membro                        | ✅     |
-| RF08 | 🚫 Desativar Membro   | Operador | O operador desativará um membro                     | ✅     |
-| RF09 | 📋 Listar Membros     | Operador | O operador visualizará todos os membros cadastrados | ✅     |
-| RF10 | 🔑 Logar Operador     | Operador | O operador fará login no sistema                    | ✅     |
-| RF11 | 🚪 Deslogar Operador  | Operador | O operador fará logout do sistema                   | ✅     |
+| Cod. | Nome                             | Ator     | Objetivo                                            | Status |
+|------|----------------------------------|----------|-----------------------------------------------------|--------|
+| RF01 | 👤 Cadastrar Operador            | Admin    | O admin criará um operador no sistema               | ✅     |
+| RF02 | ✏️ Editar Operador               | Admin    | O admin editará um operador                         | ✅     |
+| RF03 | 🗑️ Excluir Operador              | Admin    | O admin excluirá um operador                        | ✅     |
+| RF04 | 📋 Listar Operadores             | Admin    | O admin visualizará todos os operadores cadastrados | ✅     |
+| RF05 | 🔍 Detalhar Operador             | Admin    | O admin visualizará os detalhes de um operador      | ✅     |
+| RF06 | 👥 Cadastrar Membro              | Operador | O operador cadastrará um membro                     | ✅     |
+| RF07 | ✏️ Editar Membro                 | Operador | O operador editará um membro                        | ✅     |
+| RF08 | 🚫 Desativar Membro              | Operador | O operador desativará um membro                     | ✅     |
+| RF09 | 📋 Listar Membros                | Operador | O operador visualizará todos os membros cadastrados | ✅     |
+| RF10 | 🔑 Logar Operador                | Operador | O operador fará login no sistema                    | ✅     |
+| RF11 | 🚪 Deslogar Operador             | Operador | O operador fará logout do sistema                   | ✅     |
+| RF12 | 📝 Cadastrar Obrigação           | Operador | O operador registrará obrigações religiosas         | ✅     |
+| RF13 | 📋 Listar e Consultar Obrigações | Operador | O operador visualizará as obrigações registradas    | ✅     |
+| RF14 | ✏️🗑️ Editar e Excluir Obrigações | Operador | O operador modificará ou excluirá obrigações        | ✅     |
+| RF15 | 🔑 Alterar Senha                 | Operador | O operador e admin poderão alterar senhas           | ✅     |
+| RF16 | 📍 Consultar Endereço por CEP    | Operador | O operador buscará endereço a partir do CEP         | ✅     |
+| RF17 | 👑 Promover Usuário a Admin      | Admin    | O admin promoverá um operador a administrador       | ✅     |
 
 ## 🛠️ Requisitos Não Funcionais
 
@@ -87,9 +93,21 @@ classDiagram
         +String descricao
     }
     
+    class Endereco {
+        +Long id
+        +String cep
+        +String logradouro
+        +String numero
+        +String complemento
+        +String bairro
+        +String cidade
+        +String uf
+    }
+    
     Operador "1" --> "*" Membro : gerencia
     Membro "*" --> "*" Cargo : possui
     Membro "1" --> "*" Obrigacao : realiza
+    Membro "1" --> "1" Endereco : possui
 ```
 
 ---
