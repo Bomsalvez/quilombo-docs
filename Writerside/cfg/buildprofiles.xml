@@ -4,8 +4,6 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-        <primary-color>#0632E6</primary-color>
-
         <header-logo>Logo.png</header-logo>
         <custom-favicons>Logo.png</custom-favicons>
     </variables>
