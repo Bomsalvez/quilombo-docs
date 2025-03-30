@@ -39,13 +39,14 @@ Desenvolver tecnologias que preservem e fortaleçam a identidade cultural de com
 ## 📱 Projetos Principais
 
 ### 🏮 Sistema de Gestão Quilombo Pena Branca
+
 Uma solução completa para a gestão administrativa e cultural da comunidade Quilombo Pena Branca, incluindo:
 - Cadastro e gestão de membros
 - Registro de obrigações religiosas
 - Gerenciamento de cargos e funções
 - Preservação da memória coletiva
 
-![Logo.png](Logo.png){ width=200 }
+
 
 ### 💰 Sistema de Controle Financeiro Metakyasshu
 Plataforma financeira adaptada às necessidades específicas de comunidades tradicionais:
@@ -67,19 +68,19 @@ Nossa equipe é composta por profissionais multidisciplinares que unem conhecime
 
 Utilizamos um conjunto diversificado de tecnologias modernas:
 
-| Frontend                | Backend                 | DevOps               | Design                |
-|-------------------------|-------------------------|----------------------|-----------------------|
-| Angular                 | Java/Spring Boot        | Docker               | Adobe Creative Suite  |
-| React                   | Node.js                 | Kubernetes           | Figma                 |
-| TypeScript              | Python                  | CI/CD Pipelines      | UX Research Tools     |
-| Progressive Web Apps    | GraphQL                 | AWS/Azure            | Design Thinking       |
+| Frontend             | Backend          | DevOps          | Design            |
+|----------------------|------------------|-----------------|-------------------|
+| Angular              | Java/Spring Boot | Docker          | Figma             |
+| React                | Node.js          | Kubernetes      | UX Research Tools |
+| TypeScript           | -                | CI/CD Pipelines | Design Thinking   |
+| Progressive Web Apps | -                | AWS/Azure       | -                 |
 
 ## 📞 Contato
 
--[📧 Email](mailto:bomsalvez@gmail.com)
--[🐱 GitHub](https://github.com/bomsalvez) 
--[📱 WhatsApp](https://wa.me/5565992300223)
--[🔗 LinkedIn](https://www.linkedin.com/in/bomsalvez-freitas/)
+- [📧 Email](mailto:bomsalvez@gmail.com)
+- [🐱 GitHub](https://github.com/bomsalvez)
+- [📱 WhatsApp](https://wa.me/5565992300223)
+- [🔗 LinkedIn](https://www.linkedin.com/in/bomsalvez-freitas/)
 
 
 ## 🤝 Parcerias e Clientes
@@ -88,7 +89,8 @@ Utilizamos um conjunto diversificado de tecnologias modernas:
 
 ---
 
-<div align="center">
-  <h3>🌙 Senzalla Technology 🌙</h3>
-  <p>Conectando tradições ao futuro digital</p>
-</div> 
+
+> ---------------------------------------------------------------------------
+> #### 🌙 Quilombo Pena Branca 🌙
+> ***Honrando nossas raízes, construindo nosso futuro***
+> ---------------------------------------------------------------------------

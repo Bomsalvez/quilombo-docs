@@ -10,4 +10,8 @@
         <description>Created after removal of "Starter" from Quilombo-Docs</description>
         <accepts>starter.html</accepts>
     </rule>
+    <rule id="1204dd3">
+        <description>Created after removal of "🔍 RF05 - Detalhar Operador" from Quilombo-Docs</description>
+        <accepts>RF05.html</accepts>
+    </rule>
 </rules>

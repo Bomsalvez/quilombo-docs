@@ -75,5 +75,10 @@ A documentação da API está disponível em `http://localhost:8080/swagger-ui.h
 
 Para mais detalhes, acesse [a documentação completa](https://bomsalvez.github.io/quilombo-docs).
 
-#### 🌙 Quilombo Pena Branca 🌙
-***Honrando nossas raízes, construindo nosso futuro***
+
+
+> ---------------------------------------------------------------------------
+> #### 🌙 Quilombo Pena Branca 🌙
+> ***Honrando nossas raízes, construindo nosso futuro***
+> ---------------------------------------------------------------------------
+
